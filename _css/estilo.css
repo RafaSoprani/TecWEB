@@ -1,20 +1,9 @@
-<<<<<<< HEAD
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap");
-=======
-@charset "UTF8";
->>>>>>> 6b02ae4b0081059ccf79ca096f9d3e826cb662e5
 @font-face{
     font-family: "FonteLogo";
     src: url("../_fonts/bubblegum-sans-regular.otf");
 }
-<<<<<<< HEAD
-
-body {
-    background-color: #dddddd;
-    color: rgba(0, 0, 0, 1);
-}
-=======
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
 
 body {
@@ -23,7 +12,6 @@ body {
     color: rgba(0, 0, 0, 1);
 }
 
->>>>>>> 6b02ae4b0081059ccf79ca096f9d3e826cb662e5
 div#interface{
     width: 900px;
     background-color: #ffffff;
@@ -31,20 +19,10 @@ div#interface{
     box-shadow: 0px 0px 10px rgba(0,0,0,.5);
     padding: 10px;
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 6b02ae4b0081059ccf79ca096f9d3e826cb662e5
 p {
     text-align: justify;
     text-indent: 50px;
 }
-<<<<<<< HEAD
-header#cabecalho img#icone{
-    position:absolute;
-    left: 940px;
-    top: 55px;
-=======
 
 a {
     color: #606060;
@@ -59,40 +37,24 @@ header#cabecalho img#icone{
     position: absolute;
     left:780px;
     top: 70px;
->>>>>>> 6b02ae4b0081059ccf79ca096f9d3e826cb662e5
 }
 header#cabecalho{
     border-bottom: 1px #606060 solid;
     height: 150px;
-<<<<<<< HEAD
-    background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;   
-}
-header#cabecalho h1{
-    font-family: "FonteLogo", sans-serif;
-    font-size: 30pt;
-    color:#606060;
-=======
     background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
 }
 header#cabecalho h1{
     font-family: "FonteLogo";
     font-size: 30pt;
     color: #606060;
->>>>>>> 6b02ae4b0081059ccf79ca096f9d3e826cb662e5
     text-shadow: 1px 1px 1px rgba(0,0,0,.6);
     padding: 0px;
     margin-bottom: 0px;
 }
 header#cabecalho h2{
-<<<<<<< HEAD
-    font-family: 'Titillium Web', sans-serif;
-    font-size: 15 pt;
-    color:#888888;
-=======
     font-family: "Titillium Web", sans-serif;;
     font-size: 15pt;
     color: #888888;
->>>>>>> 6b02ae4b0081059ccf79ca096f9d3e826cb662e5
     padding: 0px;
     margin-top: 0px;
 }
@@ -123,31 +85,18 @@ figure.foto-legenda figcaption {
 figure.foto-legenda:hover figcaption{ 
   opacity: 1;  
 }
-<<<<<<< HEAD
-
-/*Formatação do menu*/
-nav#menu{
-    display: :block;
-=======
 /* Formatação do menu */
 nav#menu{
     display: block;
->>>>>>> 6b02ae4b0081059ccf79ca096f9d3e826cb662e5
 }
 nav#menu ul {
     list-style: none;
     text-transform: uppercase;
     position: absolute;
     top: -20px;
-<<<<<<< HEAD
-    left: 500px;
-}
-nav#menu li {
-=======
-    left: 300px;
+    left: 480px;
 }
 nav#menu li{
->>>>>>> 6b02ae4b0081059ccf79ca096f9d3e826cb662e5
     display: inline-block;
     background-color: #dddddd;
     padding: 10px;
@@ -160,15 +109,6 @@ nav#menu li:hover{
 nav#menu h1{
     display: none;
 }
-<<<<<<< HEAD
-nav#menu a {
-    color: #000000;
-    text-decoration: none;
-}
-nav#menu a:hover{
-    color: #ffffff;
-    text-decoration: underline;
-=======
 
 nav#menu a{
     color: #000000;
@@ -182,7 +122,7 @@ nav#menu a:hover{
 
 section#corpo {
     display: block;
-    width: 500px;
+    width: 450px;
     float: left;
     border-right: 1px solid #606060 ;
     padding-right: 15px;
@@ -296,5 +236,4 @@ footer#rodape {
 
 footer#rodape p {
     text-align: center;
->>>>>>> 6b02ae4b0081059ccf79ca096f9d3e826cb662e5
 }
